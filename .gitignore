@@ -8,10 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+.env
 
 # VSCode
 .vscode
 
 # Project-specific
-creds.json
 token.pickle
+
