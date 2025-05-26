@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "mcp-server-email"
+version: "0.1.0"
+url: "https://github.com/RKeelan/mcp-server-email"
+repository-code: "https://github.com/RKeelan/mcp-server-email"
+abstract: "Give your AI assistant an email address. This MCP server provides email functionality through Gmail API integration with OAuth 2.0 authentication."
+keywords:
+  - mcp
+  - email
+  - gmail
+  - server
+  - ai-assistant
+license: Apache-2.0
+authors:
+  - family-names: "Keelan"
+    given-names: "R."
+    email: "R.Keelan@gmail.com"
+preferred-citation:
+  type: software
+  title: "mcp-server-email"
+  version: "0.1.0"
+  url: "https://github.com/RKeelan/mcp-server-email"
+  authors:
+    - family-names: "Keelan"
+      given-names: "R."
+      email: "R.Keelan@gmail.com" 

@@ -13,6 +13,11 @@ wheels/
 # VSCode
 .vscode
 
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
 # Project-specific
 token.pickle
 
